@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "making videos automatically",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredezzy/video-maker.git"
+  },
+  "author": "@andredezzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andredezzy/video-maker/issues"
+  },
+  "homepage": "https://github.com/andredezzy/video-maker#readme"
+}
