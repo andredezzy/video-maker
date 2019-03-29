@@ -65,3 +65,5 @@ yarn.lock
 
 # credentials
 credentials/*.json
+
+content.json
