@@ -3,7 +3,6 @@ const algorithmiaApiKey = require("../../credentials/algorithmia.json").apiKey;
 const sentenceBoundaryDetection = require("sbd");
 
 const watsonApiKey = require("../../credentials/watson-nlu.json").apikey;
-console.log(watsonApiKey);
 const NaturalLanguageUnderstandingV1 = require("watson-developer-cloud/natural-language-understanding/v1");
 
 const nlu = new NaturalLanguageUnderstandingV1({
